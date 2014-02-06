@@ -1,7 +1,5 @@
 chef-yeoman
 ===========
-
-# Description
 Installs yo cli tool using npm as indicated on the [Yeoman](http://yeoman.io/) website.
 
 ## Requirements
